@@ -4,7 +4,7 @@
 
 ## Item Management Module
 
-The **Item Management** page is the core module of the Inventory Management System, allowing administrators to create, update, and manage inventory items.
+The **Item Management** page is the core module of the Inventory Management System, allowing administrators to create, update, and manage inventory items. This made from opensource templates for learning purpose.
 
 ### Features
 
